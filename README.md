@@ -19,7 +19,6 @@ A data science group project analyzing YouTube viewer analytics to predict conte
 ```
 youtube-recommendation-prediction/
 ├── youtube_analytics.ipynb     # Full analysis notebook
-├── youtube_analytics.csv       # Dataset (3,000+ rows, sourced from Kaggle)
 ├── presentation.pptx           # Final viva presentation
 └── README.md
 ```
